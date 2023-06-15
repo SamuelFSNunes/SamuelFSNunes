@@ -1,4 +1,6 @@
-### Hi there, my name is Samuel Nunes 👋
+### Hello there👋
+
+My name is Samuel Nunes, but you can call me Sam or Samuca. i'm a student from Brazil, currently studying <b>System Developer Analyst</b> in SENAI Sorocaba college. In addition, I am working as an intern at <b>2rp Net</b>, a company.
 
 #### My skills
 
